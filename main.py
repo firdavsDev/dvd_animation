@@ -1,7 +1,7 @@
 import random
 import turtle
 
-import pygame
+import pygame #pip install pygame
 
 # Initialize pygame mixer
 pygame.mixer.init()
